@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "974246879501",
+    "project_id": "prio-e1b48",
+    "storage_bucket": "prio-e1b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974246879501:android:a8ef7301b1a6f8b920d044",
+        "android_client_info": {
+          "package_name": "com.fabiansimon.prio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974246879501-51chqh5ogbh7sumf673gu7dhnmakib5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKItnWMFhbpcwo-YBlNlTr0nYAldiP6Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974246879501-51chqh5ogbh7sumf673gu7dhnmakib5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974246879501-8efbf35ekueg55utvmda3naq56teof85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fabiansimon.prio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

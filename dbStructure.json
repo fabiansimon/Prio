@@ -1,0 +1,61 @@
+{
+    "requests": {
+        "meta_data": {
+            "creatorId": "",
+            "requestId": "",
+            "fulfillerId": "",
+            "createdAt": "",
+            "deliveryFee": ""
+        },
+        "info": {
+            "title": "",
+            "description": "",
+            "latitude": "",
+            "longtitude": "",
+            "category": "",
+            "finishDateTime": ""
+        }
+    },
+    "users": {
+        "meta_data": {
+            "userId": "",
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phoneNr": "",
+            "profilePic": "",
+            "birthdate": "",
+            "joinDate": "",
+            "paymentInfo": "",
+            "allTimeEarnings": "",
+            "rating": "",
+            "finishedOrders": "",
+            "monthlyGoal": ""
+        },
+        "info": {
+            "openRequestsId": "",
+            "openChatId": "",
+            "watchlistIds": "",
+            "monthlyEarnings": ""
+        }
+    },
+    "chats": {
+        "meta_data": {
+            "chatId": "",
+            "openTime": "",
+            "supplierId": "",
+            "demanderId": ""
+        },
+        "info": {
+            "chatMessages": {
+                "typeMessage": "chatMessage",
+                "sender": "",
+                "message": "",
+                "dateTime": ""
+            },
+            "currentOffer": "",
+            "approvedOffer": "",
+            "approvedItem": ""
+        }
+    }
+}
