@@ -1,6 +1,6 @@
 # prio_project
 
-A new Flutter project.
+An app for fulfilling urgent tasks/purchases via the gig economy
 
 ## Getting Started
 
